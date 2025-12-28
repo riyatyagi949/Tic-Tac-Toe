@@ -30,15 +30,15 @@ JavaScript
 
 2) Navigate to the project folder:
 
-• cd Tic-Tac-Toe
+      • cd Tic-Tac-Toe
 
-• Open index.html in your browser.
+      • Open index.html in your browser.
 
-• Players take turns clicking on a cell to mark 'X' or 'O'.
+      • Players take turns clicking on a cell to mark 'X' or 'O'.
 
-• The game announces the winner or a draw when the grid is full.
+      • The game announces the winner or a draw when the grid is full.
 
-• Play against an AI opponent in single-player mode. 
+      • Play against an AI opponent in single-player mode. 
 
 #  Future Enhancements
 
@@ -51,6 +51,7 @@ JavaScript
  GitHub: @riyatyag949 
  
 Email: tyagiriya517@gmail.com
+
 
 
 
