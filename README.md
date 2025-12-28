@@ -24,33 +24,34 @@ JavaScript
 
 #  How to Play
 
-# Clone the repository:
+1) Clone the repository:
 
-git clone https://github.com/your-username/Tic-Tac-Toe.git
+          git clone https://github.com/your-username/Tic-Tac-Toe.git
 
-# Navigate to the project folder:
+2) Navigate to the project folder:
 
-1) cd Tic-Tac-Toe
+• cd Tic-Tac-Toe
 
-2) Open index.html in your browser.
+• Open index.html in your browser.
 
-3) Players take turns clicking on a cell to mark 'X' or 'O'.
+• Players take turns clicking on a cell to mark 'X' or 'O'.
 
-4) The game announces the winner or a draw when the grid is full.
+• The game announces the winner or a draw when the grid is full.
 
-5) Play against an AI opponent in single-player mode. 
+• Play against an AI opponent in single-player mode. 
 
 #  Future Enhancements
 
- Implement score tracking.
+1) Implement score tracking.
 
- Improve UI with animations & effects.
+2) Improve UI with animations & effects.
 
 # Connect with Me
 
- GitHub: @riyatyag 
+ GitHub: @riyatyag949 
  
 Email: tyagiriya517@gmail.com
+
 
 
 
